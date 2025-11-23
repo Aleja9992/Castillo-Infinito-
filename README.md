@@ -31,9 +31,9 @@ CREATE DATABASE castillo_infinito;
 
 Configurar application.properties:
 
-spring.datasource.url=jdbc:mysql://localhost:3306/castillo_infinito
-spring.datasource.username=tu_usuario
-spring.datasource.password=tu_password
+spring.datasource.url=jdbc:mysql://localhost:3306/castillo_infinito?useSSL=false&serverTimezone=UTC
+spring.datasource.username=root
+spring.datasource.password=
 spring.jpa.hibernate.ddl-auto=update
 
 3. Ejecutar
