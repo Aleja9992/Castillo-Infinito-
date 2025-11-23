@@ -136,9 +136,3 @@ Response
   "reconstructedContent": "Muzan se mueve hacia el norte. Preparar ataque.",
   "timestamp": "2025-11-20T08:15:43"
 }
-
-
-
-Scripts SQL o migraciones
-
-Explicación de cada endpoint
