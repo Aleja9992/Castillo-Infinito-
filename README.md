@@ -14,7 +14,7 @@ Spring Data JPA
 
 MySQL
 
-Arquitectura por capas
+Arquitectura de puertos y adaptadores y arquitectura limpia 
 
 Manejo de excepciones global
 
